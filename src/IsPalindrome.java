@@ -6,7 +6,6 @@ public class IsPalindrome {
 		StringBuilder s1 = new StringBuilder(input.nextLine());
 		Boolean result = (s1.toString().equals(s1.reverse().toString())) ? Boolean.TRUE : Boolean.FALSE;
 		System.out.println(result);
-		System.out.println("hello world");
 
 
 	}
