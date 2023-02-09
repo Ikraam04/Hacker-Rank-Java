@@ -1,5 +1,5 @@
 import java.util.*;
-
+//https://www.hackerrank.com/challenges/java-anagrams/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
 public class IsAnagram {
 	public static void main(String[] args) {
 		Scanner strings = new Scanner(System.in);
@@ -15,3 +15,5 @@ public class IsAnagram {
 		}
 	}
 }
+
+
